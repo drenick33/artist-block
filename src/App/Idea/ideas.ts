@@ -15,6 +15,15 @@ export const objects = [
   "hamster",
   "bird",
   "strawberry",
+  "chair",
+  "bike",
+  "egg",
+  "door",
+  "fur coat",
+  "cookie",
+  "cooking pan",
+  "milk carton",
+  "lamp",
 ];
 
 export const styles = [
