@@ -15,7 +15,11 @@ export const Home = () => {
       <div>
         <h1 className={classes.header}>How can we help?</h1>
         <div className={classes.container}>
-          <img src="images/cube.png" alt="cube" className={classes.image} />
+          <img
+            src="https://i.postimg.cc/CxzN3Xg9/cube.png"
+            alt="cube"
+            className={classes.image}
+          />
           <button onClick={() => navigateTo("/idea")} className={classes.idea}>
             <span>
               Give me
@@ -33,7 +37,11 @@ export const Home = () => {
               resources !
             </span>
           </button>
-          <img src="images/arrow.png" alt="arrow" className={classes.arrow} />
+          <img
+            src="https://i.postimg.cc/6qkfXLNn/arrow.png"
+            alt="arrow"
+            className={classes.arrow}
+          />
           <h2 className={classes.instructions}>Click on one !</h2>
         </div>
       </div>
